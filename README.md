@@ -1,10 +1,7 @@
 📊 Retail Sales & Customer Intelligence Dashboard (Power BI)
 
 **🚀 Project Overview**
-
-This project is an interactive Power BI dashboard designed to analyze customer behavior, purchase patterns, and product performance using an e-commerce dataset.
-
-The dashboard transforms raw transactional data into actionable insights to support business decisions related to customer segmentation, product strategy, and time-based demand trends.
+This Power BI dashboard analyzes retail sales and customer behavior to generate actionable business insights for improving customer segmentation, product performance, and revenue optimization.It integrates transactional and customer data to identify patterns in purchasing behavior, demand trends, and high-value customer segments, enabling data-driven decision-making for business strategy.
 
 
 **🎯 Key Features**
@@ -38,6 +35,8 @@ The dashboard transforms raw transactional data into actionable insights to supp
 - Power Query (Data Cleaning & Transformation)
 - DAX (Data Modeling & Calculations)
 - Excel / CSV Dataset
+
+- “Data analysis performed using exploratory data analysis (EDA) techniques and KPI-driven dashboard design principles.”
 
 **📂 Dataset Overview**
 - Customer data: Age, Gender, Tenure
@@ -82,27 +81,27 @@ Identifies the most frequently purchased products, helping understand high-deman
 
 
 **📊 Key Insights**
-- A small segment of customers contributes to a large portion of transactions (Pareto behavior observed)
-- Purchase activity shows clear time-based fluctuations and peak periods
-- Product demand is concentrated among a limited set of top-performing items
-- Customer distribution varies significantly across age groups and tenure levels
-
+-Customer activity follows a strong Pareto distribution, where a small percentage of customers contribute to the majority of transactions.
+Sales patterns show clear temporal fluctuations, indicating seasonal or periodic demand behavior.
+Product demand is highly concentrated among top-performing items, suggesting opportunities for inventory optimization and targeted marketing.
+Customer segmentation reveals significant variation across age groups and tenure, highlighting distinct behavioral clusters.
 
 
 **💡 Business Impact**
 
-This dashboard enables businesses to:
-- Identify high-value and repeat customers
-- Understand customer behavior patterns
-- Optimize product and inventory strategy
-- Detect seasonal demand trends
-- Support data-driven marketing decisions
+This dashboard enables organizations to make data-driven decisions by:
+
+Identifying high-value and repeat customers for retention strategies
+Improving product assortment and inventory planning
+Detecting seasonal trends for optimized sales forecasting
+Enhancing customer segmentation for targeted marketing
+Supporting strategic business planning through KPI monitoring
 
 
 **👩‍💻 Author**
 
 Laxmi Rushaali Kuravi
-Aspiring Data Analyst | Business Intelligence & Data Visualization Enthusiast
+Data Analyst | Business Intelligence & Data Visualization | SQL • Power BI • Python
 
 
 
