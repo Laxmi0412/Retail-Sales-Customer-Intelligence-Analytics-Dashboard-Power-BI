@@ -1,7 +1,10 @@
 📊 Retail Sales & Customer Intelligence Dashboard (Power BI)
 
+
 **🚀 Project Overview**
-This Power BI dashboard analyzes retail sales and customer behavior to generate actionable business insights for improving customer segmentation, product performance, and revenue optimization.It integrates transactional and customer data to identify patterns in purchasing behavior, demand trends, and high-value customer segments, enabling data-driven decision-making for business strategy.
+This Power BI dashboard analyzes retail sales and customer behavior to generate actionable business insights for improving customer segmentation, product performance, and revenue optimization. 
+
+It integrates transactional and customer data to identify patterns in purchasing behavior, demand trends, and high-value customer segments, enabling data-driven decision-making for business strategy
 
 
 **🎯 Key Features**
@@ -81,22 +84,21 @@ Identifies the most frequently purchased products, helping understand high-deman
 
 
 **📊 Key Insights**
--Customer activity follows a strong Pareto distribution, where a small percentage of customers contribute to the majority of transactions.
-Sales patterns show clear temporal fluctuations, indicating seasonal or periodic demand behavior.
-Product demand is highly concentrated among top-performing items, suggesting opportunities for inventory optimization and targeted marketing.
-Customer segmentation reveals significant variation across age groups and tenure, highlighting distinct behavioral clusters.
+Customer transactions follow a Pareto pattern, where a small percentage of customers contribute to most sales.
+Sales activity shows clear seasonal and time-based fluctuations.
+Product demand is highly concentrated among top-performing items, indicating inventory optimization opportunities.
+Customer segments show distinct behavior differences across age groups and tenure levels.
 
 
 **💡 Business Impact**
 
-This dashboard enables organizations to make data-driven decisions by:
+This dashboard enables data-driven decision-making by:
 
-Identifying high-value and repeat customers for retention strategies
-Improving product assortment and inventory planning
-Detecting seasonal trends for optimized sales forecasting
-Enhancing customer segmentation for targeted marketing
-Supporting strategic business planning through KPI monitoring
-
+Identifying high-value customers for retention strategies
+Optimizing product and inventory planning
+Detecting seasonal demand trends for forecasting
+Improving customer segmentation for targeted marketing
+Supporting KPI tracking for business performance monitoring
 
 **👩‍💻 Author**
 
