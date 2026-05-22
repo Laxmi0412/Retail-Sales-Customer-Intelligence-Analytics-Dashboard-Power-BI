@@ -1,4 +1,4 @@
-**📊 Customer Behavior & Sales Analytics Dashboard (Power BI)**
+📊 Retail Sales & Customer Intelligence Dashboard (Power BI)
 
 **🚀 Project Overview**
 
